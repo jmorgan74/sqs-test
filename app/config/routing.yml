@@ -1,0 +1,4 @@
+morgz_queue:
+    resource: "@MorgzQueueBundle/Resources/config/routing.yml"
+    prefix:   /
+

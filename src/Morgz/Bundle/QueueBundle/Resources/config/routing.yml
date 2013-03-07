@@ -1,0 +1,3 @@
+morgz_queue_homepage:
+    pattern:  /
+    defaults: { _controller: MorgzQueueBundle:Default:index }
